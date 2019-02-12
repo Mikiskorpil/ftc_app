@@ -64,7 +64,7 @@ public class HardwarePushbot
     public static final double ARM_DOWN_POWER  = -0.45 ;
 
     /* local OpMode members. */
-    HardwareMap hwMap =  null;
+    HardwareMap hwMap           =  null;
     private ElapsedTime period  = new ElapsedTime();
 
     /* Constructor */

@@ -70,13 +70,13 @@ import org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot;
             //Vzdálenosti jsou jenom odhady by oko podle obrázků
 
             encoderDrive(DRIVE_SPEED, 24, 24,0);
-            //před 3 minerálama, Truny přinesl jeden Colour Sensor, můžeme zkusit příště
+            //před 3 minerálama, Truny přinesl jeden Colour Sensor a Distance sensor, můžeme zkusit příště
             encoderDrive(TURN_SPEED, );
             encoderDrive(DRIVE_SPEED, 36, 36,0);
-            //zatáčka na cestě do team čtverce v rohu
+            //zatáčka na cestě do team depotu v rohu
             encoderDrive(TURN_SPEED, );
             encoderDrive(DRIVE_SPEED, 52, 52, 0);
-            //team čtverec v rohu, musíme vyhodit marker
+            //team depot v rohu, musíme vyhodit marker
             encoderDrive(TURN_SPEED,);
             encoderDrive(DRIVE_SPEED,80, 80, 0);
             //cesta do kráteru
